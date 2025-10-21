@@ -19,20 +19,11 @@ Tools: Python (pandas, Prophet, matplotlib,ARIMA), SQL Server, Power BI
   - Slicers for Month, Country, Product Description
 
 ---
-🔹 Project structure
- E-Commerce-Sales-Analytics-Forecast/
-├── 📂 notebooks/
-│ ├── 01_data_cleaning.ipynb → Data cleaning and preprocessing steps
-│ ├── 02_forecast_prophet.ipynb → Prophet modeling, forecast, and export
-├── 📂 data/
-│ └── sample_data.csv → Sample dataset used for analysis
-├── 📂 sql/
-│ ├── create_tables.sql → SQL table creation script
-│ └── sample_queries.sql → Example queries for analytics
-├── 📂 powerbi/
-│ ├── dashboard.pbix → Power BI dashboard file
-│ └── dashboard_screenshots/ → Screenshots of key visualizations
-├── README.md → Project overview and documentation
-└── LICENSE → License information (optional)
+📁 Files & Structure
+- notebooks/01_data_cleaning.ipynb → Data cleaning and preprocessing steps
+- notebooks/02_forecast_prophet.ipynb → Prophet modeling, forecast, and export
+- data/ - sample data csv
+- sql/ → SQL table creation and sample queries for analytics
+- powerbi/ → PBIX  dashboard screenshots 
 
 
