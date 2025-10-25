@@ -24,6 +24,13 @@ Tools: Python (pandas, Prophet, matplotlib,ARIMA), SQL Server, Power BI
 - notebooks/02_forecast_prophet.ipynb → Prophet modeling, forecast, and export
 - data/ - sample data csv
 - sql/ → SQL table creation and sample queries for analytics
-- powerbi/ → PBIX  dashboard screenshots 
+- powerbi/ → PBIX  dashboard screenshots
+
+---
+Here is the preview:
+
+![actual_projection](https://github.com/user-attachments/assets/8a5272a7-5f48-44f0-97ec-0494f6160ced)
+
+
 
 
